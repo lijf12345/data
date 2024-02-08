@@ -1,0 +1,8 @@
+ENVI
+samples = 4096
+lines   = 4096
+bands   = 4
+data type = 5
+interleave = bip
+file type = ENVI Standard
+data ignore value = 0.00000000e+000
